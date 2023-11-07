@@ -21,7 +21,7 @@ Este projeto foi desenvolvido com o propósito de ser um jogo de pedra, papel ou
 
 ## APK do Projeto:
 
-<a href=" https://drive.google.com/file/d/13g33Hlp9ImmUL5xRvUC-h1hdKC9qnnkX/view?usp=sharing">Download do APP </a>
+<a href="https://drive.google.com/file/d/13g33Hlp9ImmUL5xRvUC-h1hdKC9qnnkX/view?usp=sharing">Download do APP </a>
 
 ## Como instalar:
 
